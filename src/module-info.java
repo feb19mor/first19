@@ -1,0 +1,2 @@
+module Only_practice {
+}
